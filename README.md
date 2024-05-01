@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Zakria</h1>
 <h3 align="center">A Passionate Software Engineer From Egypt</h3>
-<p align="center"> with a knack for crafting elegant solutions to complex problems. I specialize in [Software principle , Agile - OOP - SOLID Principle - Clean Code - Unit Testing - data structure & algorithm , PHP , Laravel , Full Rest API , Postman , Git / GitHub , SQL , Relation Mapping - ERD - ORM - queries ,DBMS , HTML , CSS , JS , React-JS , Bootstrap , Ajax -Json , java SE , Spring Boot , Operating System , Windows -lunix], and I thrive on building robust, scalable software that makes a positive impact.
+<p align="center"> with a knack for crafting elegant solutions to complex problems. I specialize in [Software principle , Agile - OOP - SOLID Principle - Clean Code - Unit Testing - data structure & algorithm , PHP , Laravel , Full Rest API , Postman , Git / GitHub , SQL ,DBMS , HTML , CSS , JS , React-JS , Bootstrap , Ajax -Json , java SE , Spring Boot ,Operating System , Windows -lunix], and I thrive on building robust, scalable software that makes a positive impact.
 
 💻 With 2 Years of experience in the software industry, I've had the opportunity to work on a diverse range of projects, from [e-commerce platforms, enterprise applications, e-learning , Order tracking , automation tools , dashboard , HR system , finance System , payment Getway etc.]. My approach to software development is centered around clean code, best practices, and continuous learning.
 
@@ -21,19 +21,19 @@
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<br>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
 
-- 🌱 I’m currently worked as **Backend**
+- 🌱 I’m currently worked as **Backend Developer**
 
 - 👨‍💻 All of my projects are available at [my GitHub account](https://github.com/mohamed775?tab=repositories)
 
@@ -43,8 +43,13 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://wa.me/+20121187442" target="blank"><img src="https://www.cdnlogo.com/logos/w/29/whatsapp-icon.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+</p>
+
+<p align="left">
 <a href="https://www.linkedin.com/in/mohamed-zakria-9066671a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 </p>
+
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -84,6 +89,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thank you for visiting my GitHub profile! If you're interested in collaborating on projects, discussing software development, or just want to connect, feel free to reach out. Let's build something amazing together! 😊🚀!</b> :)</em>
 
 <br>
