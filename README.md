@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Zakria</h1>
 <h3 align="center">A Passionate Software Engineer From Egypt</h3>
-<p align="center"> with a knack for crafting elegant solutions to complex problems. I specialize in [Software principle , Agile - OOP - SOLID Principle - Clean Code - Unit Testing - data structure & algorithm , PHP , Laravel , Full Rest API , Postman , Git / GitHub , SQL ,DBMS , HTML , CSS , JS , React-JS , Bootstrap , Ajax -Json , java SE , Spring Boot ,Operating System , Windows -lunix], and I thrive on building robust, scalable software that makes a positive impact.
+<p align="center"> with a knack for crafting elegant solutions to complex problems. I specialize in [Software principle , Agile - OOP - SOLID Principle - Clean Code - Unit Testing - data structure & algorithm , java , Spring Boot , Kafka , redis , microservices , Docker , PHP , Laravel , Full Rest API , Postman , Git / GitHub , SQL ,DBMS , HTML , CSS , JS , React-JS , Bootstrap , Ajax -Json ,Operating System , Windows -lunix], and I thrive on building robust, scalable software that makes a positive impact.
 
 💻 With 2 Years of experience in the software industry, I've had the opportunity to work on a diverse range of projects, from [e-commerce platforms, enterprise applications, e-learning , Order tracking , automation tools , dashboard , HR system , finance System , payment Getway etc.]. My approach to software development is centered around clean code, best practices, and continuous learning.
 
